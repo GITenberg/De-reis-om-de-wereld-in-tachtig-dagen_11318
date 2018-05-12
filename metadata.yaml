@@ -1,6 +1,9 @@
 _repo: De-reis-om-de-wereld-in-tachtig-dagen_11318
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Le tour du monde en quatre-vingts jours. Dutch
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Verne, Jules
@@ -17,6 +20,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Júlio_Verne
     - http://en.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11318#De-reis-om-de-wereld-in-tachtig-dagen
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
